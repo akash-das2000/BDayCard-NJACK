@@ -29,7 +29,8 @@ public class CardActivity extends AppCompatActivity {
         sender.setText(senderName);
         message.setText(messageText);
 
-        // To be done
+        // Implement the feature to go back after clicking BACK Button.
+        // Remember to add finish() after starting the intent to open MainActivity.
 
     }
 }
